@@ -15,10 +15,12 @@
 * `Classification` task for Alfabank (on data about bank transactions)
 * `Clusterisation` task for customers segmentation (using Weborama's data)
 * `Prediction probability` task (on data about users' interests)
+* `Churn prediction` task for telecom clients (MTS dataset)
+* `NLP & Feature selection` task for hotel reviews (TripAdvisor's data)
 2. EDA: 
 * `QS University Rankings 2023` dataset
 * `IMB Employee's churn prediction` dataset
 * `Wine` dataset
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Last+update:+31+March+2023;Next+update:+30+June+2023)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Last+update:+22+June+2023;Next+update:+1+September+2023)](https://git.io/typing-svg)
